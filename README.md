@@ -16,12 +16,13 @@ This game was built using Amazon Q, AWS’s AI Developer Assistant, which helped
 
 > **🤖 Built with Amazon Q**: This game was developed primarily using **Amazon Q**, AWS's AI assistant, showcasing the power of AI-assisted game development and rapid prototyping.
 
+![Game Screenshot](images/Screenshot%202025-06-27%20224141.png)
+
 ### 🎯 **THE CHALLENGE**
 - **Survive 60 seconds** of relentless meteor bombardment
 - **Protect your 3 precious lives** represented by glowing hearts
 - **Score maximum points** while staying alive
 ---
-![Game Screenshot](images/Screenshot 2025-06-27 224141.png)
 
 ## 🎮 **CONTROLS**
 
