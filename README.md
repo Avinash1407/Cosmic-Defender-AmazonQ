@@ -7,7 +7,9 @@
 > *Defend Earth from the cosmic meteor storm! Master 7 legendary superpowers, survive the 60-second onslaught, and become the ultimate Cosmic Defender!*
 
 ---
-## 🤖 **POWERED BY AMAZON Q**
+## 🤖 **POWERED BY AMAZON Q** 
+<img src="https://assets.aboutamazon.com/95/bc/b88478784cc19cf09c627968cc06/aa-apr2024-amazonq-standard-hero-v5-2000x1125-1.jpg" alt="Game Screenshot" width="200" height="100">
+
 This game was built using Amazon Q, AWS’s AI Developer Assistant, which helped rapidly generate, iterate, and refine game code, features, and documentation. Cosmic Defender is a showcase of how generative AI can accelerate game development, from concept to execution — including visuals, mechanics, power-ups, and effects.
 
 ## 🌟 **GAME OVERVIEW**
