@@ -21,6 +21,7 @@ This game was built using Amazon Q, AWS’s AI Developer Assistant, which helped
 - **Protect your 3 precious lives** represented by glowing hearts
 - **Score maximum points** while staying alive
 ---
+![Game Screenshot](images/Screenshot 2025-06-27 224141.png)
 
 ## 🎮 **CONTROLS**
 
